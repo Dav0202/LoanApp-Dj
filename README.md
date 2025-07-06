@@ -29,8 +29,6 @@ Fraud checks are performed only at the time of loan submission.
 
 Admins are determined by Django’s is_staff flag.
 
-All amounts are in Nigerian Naira (₦) by default.
-
 Email backend is mocked to terminal.
 
 ---
