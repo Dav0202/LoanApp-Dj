@@ -1,0 +1,8 @@
+.pytest_cache
+.env
+.venv
+__pycache__/
+env
+__pycache__
+db.sqlite3
+.vs
